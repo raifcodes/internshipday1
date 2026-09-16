@@ -47,7 +47,7 @@ Student-Portfolio/
 
 ## Live Demo
 
-[View My Portfolio](https://raifcodes.github.io/internshipday1/)
+[View My Portfolio](https://raifcodes.github.io/internshipday2/)
 
 ## Author
 
